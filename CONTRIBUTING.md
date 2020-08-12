@@ -20,17 +20,16 @@ This project and everyone participating in it is governed by the [CSC510_HW1 Cod
 * Please avoid working directly on master branch.
 * Create a branch from where you want to start your work.
 * Write meaningful commit messages.
-* Submit a pull request in proper format:
-  * A good way would is to include the Issue Number and Issue Name in the Subject.
-    ``` 
-    (Issue Number): Issue Name 
-    Description: __________________
-    
-    ```
 * Please add necessary tests for your changes.
 
 ## Submitting Changes
 
 * Push the changes to the fork repository.
 * Submit a pull request to the original repository.
+  * Please follow the below format for submitting a pull request.
+    ``` 
+    (Issue Number): Issue Name 
+    Description: __________________
+    
+    ```
 * Wait for feedback on the request.
