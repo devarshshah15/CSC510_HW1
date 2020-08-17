@@ -1,6 +1,7 @@
+
+<p align="center">
 ![Build Status](https://travis-ci.org/ultraultimated/CSC510_HW1.svg?branch=master)
 [![DOI](https://zenodo.org/badge/286630398.svg)](https://zenodo.org/badge/latestdoi/286630398)
-<p align="center">
 <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;
 <img src="https://img.shields.io/badge/license-MIT-green.svg">&nbsp;
 <img src="https://img.shields.io/badge/platform-mac,*nix-informational">&nbsp;
