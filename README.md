@@ -1,10 +1,9 @@
 
 <p align="center">
-![Build Status](https://travis-ci.org/ultraultimated/CSC510_HW1.svg?branch=master)
-[![DOI](https://zenodo.org/badge/286630398.svg)](https://zenodo.org/badge/latestdoi/286630398)
+<a href="https://travis-ci.org/ultraultimated/CSC510_HW1"><img src="https://travis-ci.org/ultraultimated/CSC510_HW1.svg?branch=master" /></a>
+<a href="https://doi.org/10.5281/zenodo.3986246"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3986246.svg" alt="DOI"></a>
 <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;
 <img src="https://img.shields.io/badge/license-MIT-green.svg">&nbsp;
-<img src="https://img.shields.io/badge/platform-mac,*nix-informational">&nbsp;
 </p>
 
 # CSC510_HW1
